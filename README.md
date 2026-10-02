@@ -1,1 +1,1 @@
-# lokupimpale.github.io
+# pimpaleloku-ops.github.io
